@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 app.get("/", (_, res) => {
     return res.status(200).json({
-        message: "Welcome to the test server"
+        message: "Welcome!, Server is up and running."
     });
 })
 
