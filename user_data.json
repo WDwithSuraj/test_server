@@ -1,0 +1,142 @@
+[
+    {
+        "user_id": 1,
+        "username": "john_doe",
+        "email": "john@mail.com",
+        "age": 30,
+        "is_active": true
+    },
+    {
+        "user_id": 2,
+        "username": "jane_smith",
+        "email": "jane@mail.com",
+        "age": 28,
+        "is_active": true
+    },
+    {
+        "user_id": 3,
+        "username": "alex_brown",
+        "email": "alex@mail.com",
+        "age": 34,
+        "is_active": false
+    },
+    {
+        "user_id": 4,
+        "username": "sara_jones",
+        "email": "sara@mail.com",
+        "age": 25,
+        "is_active": true
+    },
+    {
+        "user_id": 5,
+        "username": "mike_lee",
+        "email": "mike@mail.com",
+        "age": 40,
+        "is_active": false
+    },
+    {
+        "user_id": 6,
+        "username": "lisa_white",
+        "email": "lisa@mail.com",
+        "age": 31,
+        "is_active": true
+    },
+    {
+        "user_id": 7,
+        "username": "david_kim",
+        "email": "david@mail.com",
+        "age": 29,
+        "is_active": true
+    },
+    {
+        "user_id": 8,
+        "username": "nina_patel",
+        "email": "nina@mail.com",
+        "age": 27,
+        "is_active": false
+    },
+    {
+        "user_id": 9,
+        "username": "chris_wang",
+        "email": "chris@mail.com",
+        "age": 36,
+        "is_active": true
+    },
+    {
+        "user_id": 10,
+        "username": "emma_wood",
+        "email": "emma@mail.com",
+        "age": 24,
+        "is_active": true
+    },
+    {
+        "user_id": 11,
+        "username": "oliver_cole",
+        "email": "oliver@mail.com",
+        "age": 33,
+        "is_active": false
+    },
+    {
+        "user_id": 12,
+        "username": "sophia_green",
+        "email": "sophia@mail.com",
+        "age": 26,
+        "is_active": true
+    },
+    {
+        "user_id": 13,
+        "username": "daniel_black",
+        "email": "daniel@mail.com",
+        "age": 38,
+        "is_active": true
+    },
+    {
+        "user_id": 14,
+        "username": "grace_tan",
+        "email": "grace@mail.com",
+        "age": 30,
+        "is_active": false
+    },
+    {
+        "user_id": 15,
+        "username": "ethan_cho",
+        "email": "ethan@mail.com",
+        "age": 35,
+        "is_active": true
+    },
+    {
+        "user_id": 16,
+        "username": "mia_scott",
+        "email": "mia@mail.com",
+        "age": 22,
+        "is_active": true
+    },
+    {
+        "user_id": 17,
+        "username": "jacob_ali",
+        "email": "jacob@mail.com",
+        "age": 37,
+        "is_active": false
+    },
+    {
+        "user_id": 18,
+        "username": "ava_liu",
+        "email": "ava@mail.com",
+        "age": 29,
+        "is_active": true
+    },
+    {
+        "user_id": 19,
+        "username": "noah_fernandez",
+        "email": "noah@mail.com",
+        "age": 32,
+        "is_active": true
+    },
+    {
+        "user_id": 20,
+        "username": "zoe_martin",
+        "email": "zoe@mail.com",
+        "age": 23,
+        "is_active": false
+    }
+]
